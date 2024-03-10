@@ -1,2 +1,2 @@
 # Levis
-Simple programming language, written in pure C# using Interpreter(Thanks to [Github here](https://github.com/hisystems/Interpreter))
+Simple programming language, written in pure C# using Interpreter(Thanks to [hisystems's interpreter](https://github.com/hisystems/Interpreter))
