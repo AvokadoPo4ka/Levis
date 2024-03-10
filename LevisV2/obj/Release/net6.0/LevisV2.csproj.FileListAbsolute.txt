@@ -1,0 +1,17 @@
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\LevisV2.exe
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\LevisV2.deps.json
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\LevisV2.runtimeconfig.json
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\LevisV2.dll
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\LevisV2.pdb
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\HiSystems.Interpreter.dll
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.csproj.AssemblyReference.cache
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.AssemblyInfoInputs.cache
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.AssemblyInfo.cs
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.csproj.CoreCompileInputs.cache
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.csproj.CopyComplete
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.dll
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\refint\LevisV2.dll
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.pdb
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\LevisV2.genruntimeconfig.cache
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\obj\Release\net6.0\ref\LevisV2.dll

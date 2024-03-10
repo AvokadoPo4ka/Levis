@@ -1,0 +1,6 @@
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\LevisV2.exe
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\LevisV2.dll
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\LevisV2.deps.json
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\LevisV2.runtimeconfig.json
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\LevisV2.pdb
+C:\Users\RABB1T\source\repos\LevisV2\LevisV2\bin\Release\net6.0\publish\HiSystems.Interpreter.dll
